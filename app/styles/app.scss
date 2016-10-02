@@ -1,1 +1,7 @@
-//Your custom scss here
+
+//Base styles
+@import 'base/variables';
+@import 'base/generics';
+
+//Component styles
+@import 'components/nav'

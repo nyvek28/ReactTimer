@@ -1,11 +1,12 @@
-var React = require('react');
+var React = require('react'),
+    Nav = require('Nav');
 
 var Main = (props) => {
   return (
     <div>
-      <div>
-        <div>
-          <h2>React mode, engaged</h2>
+      <Nav/>
+        <div className = 'row'>
+          <div className = 'columns medium-6 large-4 small-centered'>
           {props.children}
         </div>
       </div>

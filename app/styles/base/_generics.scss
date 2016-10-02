@@ -1,0 +1,9 @@
+//Generic styles
+
+.bold{
+  font-weight: bold;
+}
+
+.active-link{
+  @extend .bold;
+}
