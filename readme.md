@@ -1,19 +1,5 @@
-React Boilerplate Code <3
+# ReactTimer
 
-Ok, to make this app work you'll need the following:
+This is a sample app for React
 
--Node.js(And of course npm)
-  You can download it here https://nodejs.org/en/
-
--Webpack
-  Once you've downloaded Node and it's working it's time to install Webpack globally by running in your terminal:
-
-  npm install webpack -g
-
-Now, once you've got your environment all ready follow the next steps to run the app:
-
--(In your terminal) Run: npm install
--Run: webpack -w
--Run: npm start
--In your favorite browser, go to localhost:3000
--You should see a message rendered to the screen, this means everything went right and your are ready to rock some React
+The app is hosted here: http://serene-sea-87613.herokuapp.com/
